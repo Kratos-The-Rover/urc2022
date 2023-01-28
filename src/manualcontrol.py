@@ -5,7 +5,6 @@ from sensor_msgs.msg import *
 from std_msgs.msg import Int8
 from geometry_msgs import *
 import time
-import beepy
 
 servo_flag1=1
 servo_flag2=1 #trigger servo
